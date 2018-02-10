@@ -129,6 +129,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 
+
 Required: False
 Position: Named
 Default value: None
@@ -183,3 +184,5 @@ Accept wildcard characters: False
 [Get-Team](Get-Team.md)
 
 [Set-Team](Set-Team.md)
+
+[Go-Team](Go-Team.md)
