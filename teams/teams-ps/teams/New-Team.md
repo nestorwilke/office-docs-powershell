@@ -181,5 +181,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Get-Team](Get-Team.md)
-
 [Set-Team](Set-Team.md)
